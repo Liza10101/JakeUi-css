@@ -9,6 +9,10 @@ body {
   background: #f9c029;
   width: 400px;
   height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
 }
 
 .face {
@@ -177,7 +181,7 @@ body {
   border-bottom: 0;
   transform: rotate(209deg);
   top: 100px;
-  left: -19.8px;
+  left: -18.8px;
 }
 
 .filler {
